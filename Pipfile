@@ -10,6 +10,10 @@ pandas = "*"
 tqdm = "*"
 requests = "*"
 jupyter = "*"
+jupyterlab = "*"
+sklearn = "*"
+seaborn = "*"
+memory-profiler = "*"
 
 [dev-packages]
 
